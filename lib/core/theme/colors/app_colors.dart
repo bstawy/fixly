@@ -1,6 +1,6 @@
 import 'dart:ui';
 
-class ColorsManager {
+class AppColors {
   static const Color amber = Color(0xFFF0A202);
   static const Color teal = Color(0xFF15181A);
   static const Color darkGrey = Color(0xFF15181A);
